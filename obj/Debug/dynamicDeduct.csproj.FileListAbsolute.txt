@@ -1,0 +1,14 @@
+C:\Users\NPStudent\Desktop\dynamicDeduct\dynamicDeduct\bin\Debug\dynamicDeduct.exe.config
+C:\Users\NPStudent\Desktop\dynamicDeduct\dynamicDeduct\bin\Debug\dynamicDeduct.exe
+C:\Users\NPStudent\Desktop\dynamicDeduct\dynamicDeduct\bin\Debug\dynamicDeduct.pdb
+C:\Users\NPStudent\Desktop\dynamicDeduct\dynamicDeduct\obj\Debug\dynamicDeduct.csprojResolveAssemblyReference.cache
+C:\Users\NPStudent\Desktop\dynamicDeduct\dynamicDeduct\obj\Debug\dynamicDeduct.Properties.Resources.resources
+C:\Users\NPStudent\Desktop\dynamicDeduct\dynamicDeduct\obj\Debug\dynamicDeduct.csproj.GenerateResource.Cache
+C:\Users\NPStudent\Desktop\dynamicDeduct\dynamicDeduct\obj\Debug\dynamicDeduct.exe
+C:\Users\NPStudent\Desktop\dynamicDeduct\dynamicDeduct\obj\Debug\dynamicDeduct.pdb
+C:\Users\NPStudent\Desktop\dynamicDeduct\dynamicDeduct\obj\Debug\dynamicDeduct.Calculator.resources
+C:\Users\NPStudent\Desktop\dynamicDeduct\dynamicDeduct\obj\Debug\dynamicDeduct.Main.resources
+C:\Users\NPStudent\Desktop\dynamicDeduct\dynamicDeduct\obj\Debug\dynamicDeduct.MailSend.resources
+C:\Users\NPStudent\Desktop\dynamicDeduct\dynamicDeduct\obj\Debug\dynamicDeduct.EmailLogin.resources
+C:\Users\NPStudent\Desktop\dynamicDeduct\dynamicDeduct\obj\Debug\dynamicDeduct.Deduct.resources
+C:\Users\NPStudent\Desktop\dynamicDeduct\dynamicDeduct\obj\Debug\dynamicDeduct.labelMake.resources
